@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #E5E5E5;
+    outline: 1px solid lightgreen;
+}
+
+.body {
+    background-color: #FFFFFF;
+    max-width: 1920px;
+    height: 5682px;
+    margin: 0 auto;
+}
+
+.header {
+    width: 100%;
+    height: 123px;
+    background-color: #FFFFFF;
+}
+.products {
+    background-color: #F2F2F2;
+}
+.catalog{
+    width: 100%;
+    height: 782px;
+    margin-top: 970px;
+    background-color: darkolivegreen;
+
+}
+.catalog__text{
+    width: 388px;
+    height: 311px;
+    margin-left: 260px;
+    background-color: darkslategray;
+    display:inline-block;
+
+}
+.catalog__elem1{
+    width: 440px;
+    height: 381px;
+    margin-top: -10px;
+    margin-left: 92px; //высчитал
+    border-radius: 20px;
+    background-color: darkslategray;
+    display:inline-block;
+
+}
+.catalog__elem2{
+    width: 440px;
+    height: 392px;
+    margin-top: -21px;
+    margin-left: 40px;
+    border-radius: 20px;
+    display:inline-block;
+    background-color: darkslategray;
+
+}
+.catalog__elem3{
+    width: 440px;
+    height: 371px;
+    margin-top: 33px;
+    margin-left: 260px;
+    border-radius: 20px;
+    display:inline-block;
+    background-color: darkslategray;
+
+}
+.catalog__elem4{
+    width: 440px;
+    height: 371px;
+    margin-top: 33px;
+    margin-left: 40px;
+    border-radius: 20px;
+    display:inline-block;
+    background-color: darkslategray;
+
+}
+.catalog__elem5{
+    width: 440px;
+    height: 371px;
+    margin-top: 33px;
+    margin-left: 40px;
+    border-radius: 20px;
+    display:inline-block;
+    background-color: darkslategray;
+
+}
